@@ -1,0 +1,11 @@
+[project]
+name = "personal"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "moviepy>=1.0.3",
+    "assemblyai>=0.30.0",
+    "python-dotenv>=1.0.0",
+]
